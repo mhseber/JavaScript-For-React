@@ -1,9 +1,10 @@
-// Destructuring
+Destructuring
 
-// const brothers = ["fahim", "tusar", "ratul", "rifat", "tasin", "towhid"]
+const brothers = ["fahim", "tusar", "ratul", "rifat", "tasin", "towhid"]
 
-// const [first, second, third, fort]= brothers
+const [first, second, third, fort]= brothers
 
-// console.log(first)
+console.log(first)
+console.log(second)
 
 
